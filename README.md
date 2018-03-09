@@ -72,7 +72,7 @@ component.
 ## 6. TESTING AND RUNNING THE SYSTEM
 To run your code in the simulated communicated system, you should first compile your java code by typing:
 
-javac SWP.java
+    javac SWP.java
 
 Then the following steps should be followed to run the system:
 1. start the Network Simulator (NetSim) component in one window by typing:
